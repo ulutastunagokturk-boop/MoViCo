@@ -15,7 +15,7 @@
 
 ## ⚡ MoViCo Nedir?
 
-**MoViCo**, Android telefonların donanım kısıtlarını tersine mühendislik yöntemleriyle aşarak, doğal dille yazılan istemleri (prompt) 15 ila 30 saniyede doğrudan kurulabilir `.apk` dosyalarına dönüştüren çevrimdışı öncelikli bir mikro uygulama üretim aracıdır.
+**MoViCo**, Android telefonların donanım kısıtlarını tersine mühendislik yöntemleriyle aşarak, doğal dille yazılan istemleri (prompt) 30 ila 45 saniyede doğrudan kurulabilir `.apk` dosyalarına dönüştüren çevrimdışı öncelikli bir mikro uygulama üretim aracıdır.
 
 Sıradan kodlama araçları masaüstü ortamlarına (`javac`, `d8`, `aapt2`) veya pahalı bulut aboneliklerine muhtaçken; MoViCo, bellek içi ikili bayt yamalama (binary byte patching) ve sıralı ajan orkestrasyonu kullanarak tüm geliştirme, test ve imzalama hattını doğrudan mobil cihazın içinde tamamlar.
 
