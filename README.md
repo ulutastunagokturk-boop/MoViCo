@@ -24,5 +24,3 @@
 Sıradan kodlama araçları masaüstü ortamlarına (`javac`, `d8`, `aapt2`) veya pahalı bulut aboneliklerine muhtaçken; MoViCo, bellek içi ikili bayt yamalama (binary byte patching) ve sıralı ajan orkestrasyonu kullanarak tüm geliştirme, test ve imzalama hattını doğrudan mobil cihazın içinde tamamlar.
 
 ---
-
-## 🛠️ Temel Mimari Prensipleri
