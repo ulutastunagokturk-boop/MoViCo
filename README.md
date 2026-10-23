@@ -1,7 +1,4 @@
 # MoViCo<div align="center">
-
-<img src="watermarked_img_14338076172270275267.jpg" alt="MoViCo Logo" width="160" />[cite: 1]
-
 # ⚡ MoViCo (Mobile Vibe Coding)
 
 **Aklına Getir. Tarif Et. Cihazında Çalıştır.**  
