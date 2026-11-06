@@ -1,5 +1,5 @@
 # MoViCo<div align="center">
-# ⚡ MoViCo (Mobile Vibe Coding)
+# ⚡ MoViCo (Mobile Vibe Coding) MoViCo şu anda test aşamasında. Test aşaması bittiği zaman kullanıma sunulacaktır.
 
 **Aklına Getir. Tarif Et. Cihazında Çalıştır.**  
 *Bulut sunucusu yok. Masaüstü derleyicisi yok. Sıfır kodlama bilgisiyle Android üzerinde bağımsız mikro uygulamalar üreten uç yazılım fabrikası.*
